@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 ttt = Tk()
 
-ttt.title("I cordially invovite you to the game of TIC-TAC-TOE.")
+ttt.title("I cordially invite you to the game of TIC-TAC-TOE.")
 ttt.geometry("600x400")
 
 lb1 = Label(ttt, text = "TIC-TAC-TOE", font = ('Game of Thrones', '16'))
